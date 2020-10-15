@@ -1,0 +1,23 @@
+{
+  "name": "examen",
+  "version": "1.0.0",
+  "description": "examen",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestoCarcamo/examen.git"
+  },
+  "keywords": [
+    "examen"
+  ],
+  "author": "Ernesto D. Carcamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestoCarcamo/examen/issues"
+  },
+  "homepage": "https://github.com/ErnestoCarcamo/examen#readme"
+}
