@@ -1,0 +1,23 @@
+{
+  "name": "examen1",
+  "version": "1.0.0",
+  "description": "Examen Seminario de Software Primer parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErnestoCarcamo/examenErnestoCarcamo.git"
+  },
+  "keywords": [
+    "Examen"
+  ],
+  "author": "Ernesto David Carcamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErnestoCarcamo/examenErnestoCarcamo/issues"
+  },
+  "homepage": "https://github.com/ErnestoCarcamo/examenErnestoCarcamo#readme"
+}
