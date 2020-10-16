@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/ErnestoCarcamo/examenErnestoCarcamo/issues"
   },
-  "homepage": "https://github.com/ErnestoCarcamo/examenErnestoCarcamo#readme"
+  "homepage": "https://github.com/ErnestoCarcamo/examenErnestoCarcamo#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
 }
